@@ -9,7 +9,7 @@
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Architecture](https://img.shields.io/badge/Architecture-MVVM-green.svg)](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)
 
-*A Netflix-inspired streaming app optimized for iPhone and iPad*
+*A StreamFlixPro-inspired streaming app optimized for iPhone and iPad*
 
 </div>
 
@@ -17,7 +17,7 @@
 
 ## 📱 Overview
 
-StreamFlix Pro is a sophisticated iOS streaming application that delivers a Netflix-like experience through modern iOS design principles and powerful streaming capabilities. Built entirely in Swift using UIKit and the MVVM architectural pattern, this project demonstrates professional-grade iOS development practices for content-rich applications.
+StreamFlix Pro is a sophisticated iOS streaming application that delivers a StreamFlixPro-like experience through modern iOS design principles and powerful streaming capabilities. Built entirely in Swift using UIKit and the MVVM architectural pattern, this project demonstrates professional-grade iOS development practices for content-rich applications.
 
 ### ✨ Key Features
 
@@ -25,7 +25,7 @@ StreamFlix Pro is a sophisticated iOS streaming application that delivers a Netf
 - **🔍 Smart Search** - Real-time search functionality with dynamic results
 - **📺 Trailer Playback** - In-app YouTube trailer viewing using WKWebView
 - **💾 Offline Access** - Download and save content locally with Core Data
-- **🎨 Netflix-Inspired UI** - Beautiful interface with hero headers and horizontal scrolling carousels
+- **🎨 StreamFlixPro-Inspired UI** - Beautiful interface with hero headers and horizontal scrolling carousels
 - **📱 Optimized for iOS** - Responsive design for both iPhone and iPad
 
 ---
@@ -128,7 +128,7 @@ StreamFlixPro/
 
 2. **Open in Xcode**
    ```bash
-   open "Netflix Clone.xcodeproj"
+   open "StreamFlixPro.xcodeproj"
    ```
 
 3. **Install Dependencies**
@@ -262,7 +262,7 @@ APICaller.shared.getTrendingMovies { [weak self] result in
 
 ## 📱 Screenshots
 
-The app features a polished, Netflix-inspired interface with:
+The app features a polished, StreamFlixPro-inspired interface with:
 - Immersive full-screen headers
 - Smooth horizontal scrolling carousels
 - Clean typography and spacing
@@ -367,7 +367,7 @@ copies or substantial portions of the Software.
 - **[The Movie Database (TMDB)](https://www.themoviedb.org/)** - Movie and TV show data
 - **[YouTube Data API](https://developers.google.com/youtube/v3)** - Trailer video content
 - **[SDWebImage](https://github.com/SDWebImage/SDWebImage)** - Efficient image loading
-- **Netflix** - UI/UX inspiration
+- **StreamFlixPro** - UI/UX inspiration
 - **iOS Development Community** - Tutorials and best practices
 
 ---
